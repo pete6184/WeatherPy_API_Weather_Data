@@ -1,3 +1,12 @@
+## Work left to do
+- Humidity Kernel
+- After each plot add a sentence or two explaining what the code is doing and analyzing the results. (Double check)
+- After each pair of plots, explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
+- For Part I, you must include a written description of three observable trends based on the data.
+- For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
+- Finish README file
+
+
 # Python API Homework - What's the Weather Like?
 
 ## Background
