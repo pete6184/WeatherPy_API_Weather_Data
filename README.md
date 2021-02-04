@@ -18,7 +18,7 @@ In this example, I creating a Python script to visualize the weather of 500+ cit
 The first requirement was to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-(output_data/Fig1.png)
+!(output_data/Fig1.png)
 
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
