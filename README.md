@@ -53,7 +53,6 @@ To complete this part of the assignment, I did the following:
 
 * Created a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](Images/heatmap.png)
 
 * Chose criteria to narrow down the DataFrame to find my ideal weather condition.
 
