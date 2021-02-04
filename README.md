@@ -61,3 +61,5 @@ To complete this part of the assignment, I did the following:
   * Humidity between 30-50%
 
   * Less than 20% chance of cloudiness.
+  
+ * Plotted the hotel over the previously created heatmap 
