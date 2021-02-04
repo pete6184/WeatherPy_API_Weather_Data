@@ -4,6 +4,7 @@
 - After each pair of plots, explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 - For Part I, you must include a written description of three observable trends based on the data.
 - For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
+- export all graphs and add them to README
 - Finish README file
 
 
