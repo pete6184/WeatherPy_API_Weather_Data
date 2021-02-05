@@ -19,6 +19,7 @@ The first requirement was to create a series of scatter plots to showcase the fo
 
 * Temperature (F) vs. Latitude
 ![graph](output_data/Fig1.png)
+
 Analysis of Latitude vs. Max Temp Plot
 - This graph shows the relationship between a city's latitude and their max temperature.
 - The result shows what we all know and expect in that cities in the southern hemisphere and cities (both hemispheres) that are close to the equator have higher max temperatures than cities farther north of the equator.
@@ -26,6 +27,7 @@ Analysis of Latitude vs. Max Temp Plot
 
 * Humidity (%) vs. Latitude
 ![graph2](output_data/Fig2.png)
+
 Analysis of Latitude vs. Humidity Plot
 - This graph shows the relationship between a city's latitude and their humidity levels.
 - The analysis of this graph does not give us a great definitive correlation between a city's latitude and their humidity levels.
@@ -34,6 +36,7 @@ Analysis of Latitude vs. Humidity Plot
 
 * Cloudiness (%) vs. Latitude
 ![graph3](output_data/Fig3.png)
+
 Analysis of Latitude vs. Cloudiness
 - This graph shows the relationship between a city's latitude and their percentage of cloudy days.
 - The results of this graph do not show any correlation between a city's latitude and how many cloudy days they have.
@@ -41,6 +44,7 @@ Analysis of Latitude vs. Cloudiness
 
 * Wind Speed (mph) vs. Latitude
 ![graph4](output_data/Fig4.png)
+
 Analysis of Latitude vs. Wind Speed Plot
 - This graph shows the relationship between a city's latitude and wind speeds.
 - Looking at the graph, there does not seem to be a relationship between the city's latitude and wind speed.
