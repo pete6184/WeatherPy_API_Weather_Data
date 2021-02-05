@@ -89,4 +89,4 @@ To complete this part of the assignment, I did the following:
 
   * Less than 20% chance of cloudiness.
   
- * Plotted the hotel over the previously created heatmap 
+ * Plotted the hotels over the previously created humidity heatmap 
