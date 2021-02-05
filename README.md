@@ -1,6 +1,5 @@
 ## Work left to do
 - Humidity Kernel
-- After each plot add a sentence or two explaining what the code is doing and analyzing the results. (Double check)
 - After each pair of plots, explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 - For Part I, you must include a written description of three observable trends based on the data.
 - For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
@@ -44,13 +43,28 @@ After each plot I added an explaination as to what the code is doing as I analyz
 The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
+![graph5](output_data/LinRegress1.png)
+
 * Southern Hemisphere - Temperature (F) vs. Latitude
+![graph6](output_data/LinRegress2.png)
+
 * Northern Hemisphere - Humidity (%) vs. Latitude
+![graph7](output_data/LinRegress3.png)
+
 * Southern Hemisphere - Humidity (%) vs. Latitude
+![graph8](output_data/LinRegress4.png)
+
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
+![graph9](output_data/LinRegress5.png)
+
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
+![graph10](output_data/LinRegress6.png)
+
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
+![graph11](output_data/LinRegress7.png)
+
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+![graph12](output_data/LinRegress8.png)
 
 After each pair of plots, I added an explain as to what the linear regression is modeling.
 
