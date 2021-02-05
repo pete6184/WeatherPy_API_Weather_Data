@@ -21,9 +21,9 @@ But, if pressed, how would you **prove** it?
 
 ## Part I - WeatherPy
 
-### In this example, I creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
+In this example, I creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
-### The first requirement was to create a series of scatter plots to showcase the following relationships:
+The first requirement was to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
 ![graph](output_data/Fig1.png)
@@ -37,9 +37,14 @@ But, if pressed, how would you **prove** it?
 * Wind Speed (mph) vs. Latitude
 ![graph4](output_data/Fig4.png)
 
+
+
 After each plot I added an explaination as to what the code is doing as I analyzed the results.
 
-### The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+
+
+
+The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 ![graph5](output_data/LinRegress1.png)
