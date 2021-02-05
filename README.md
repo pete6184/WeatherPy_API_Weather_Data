@@ -1,9 +1,7 @@
 ## Work left to do
 - Humidity Kernel
-- After each pair of plots, explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 - For Part I, you must include a written description of three observable trends based on the data.
 - For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
-- export all graphs and add them to README
 - Finish README file
 
 
@@ -38,7 +36,12 @@ The first requirement was to create a series of scatter plots to showcase the fo
 * Wind Speed (mph) vs. Latitude
 ![graph4](output_data/Fig4.png)
 
+
+
 After each plot I added an explaination as to what the code is doing as I analyzed the results.
+
+
+
 
 The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -86,4 +89,4 @@ To complete this part of the assignment, I did the following:
 
   * Less than 20% chance of cloudiness.
   
- * Plotted the hotel over the previously created heatmap 
+ * Plotted the hotels over the previously created humidity heatmap 
