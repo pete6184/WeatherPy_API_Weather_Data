@@ -60,8 +60,8 @@ The second requirement was to run linear regression on each relationship. This t
 ![graph6](output_data/LinRegress2.png)
 
 #### Analysis of Latitude vs. Max Temperature broken up into the northern and southern hemispheres.
-- The northern hemisphere shows a strong correlation between the latitude and max temperature. The visual data on the graph shows that the higher the latitude the lower the max temperatures are and the r-value of -.88 confirms the strong correlation between our data points.
-- The southern hemisphere on the other hand does not show nearly as strong of a relationship between the data points. The points on the graph are pretty spread out and the r-value of .49 confirms that there is a weak correlation.
+- The northern hemisphere shows a strong correlation between the latitude and max temperature. The visual data on the graph shows that the higher the latitude the lower the max temperatures are and the r-value of -.86 confirms the strong correlation between our data points.
+- The southern hemisphere on the other hand does not show nearly as strong of a relationship between the data points. The points on the graph are pretty spread out and the r-value of .52 confirms that there is a weaker correlation.
 
 ### * Northern Hemisphere - Humidity (%) vs. Latitude
 ![graph7](output_data/LinRegress3.png)
@@ -70,8 +70,8 @@ The second requirement was to run linear regression on each relationship. This t
 ![graph8](output_data/LinRegress4.png)
 
 #### Analysis of Latitude vs. Humidity broken up into the northern and southern hemispheres.
-- The data in the northern hemisphere graphs does shows a weak correlation between the city's latitude and its humidity levels. The r-value of .32 supports that as well.
-- The southern hemisphere has almost the same relationship ad r-value. 
+- The data in the northern hemisphere graphs does shows a weak correlation between the city's latitude and its humidity levels. The r-value of .31 supports that as well.
+- The southern hemisphere has almost the same relationship and r-value. 
 
 ### * Northern Hemisphere - Cloudiness (%) vs. Latitude
 ![graph9](output_data/LinRegress5.png)
@@ -80,8 +80,8 @@ The second requirement was to run linear regression on each relationship. This t
 ![graph10](output_data/LinRegress6.png)
 
 #### Analysis of Latitude vs. Percentage of Cloudy Days broken up into the northern and southern hemispheres.
-- The graph for the northern hemisphere is showing a weak correlation between the city’s latitudes and they percentage of cloudy days they see. The r-value of .35 supports that this is a weak correlation between our data points.
-- The graph for the southern hemisphere shows a weaker correlation between the data points. The r-value for this graph is .23 which means there is a weak, to no correlation.
+- The graph for the northern hemisphere is showing a weak correlation between the city’s latitudes and they percentage of cloudy days they see. The r-value of .29 supports that this is a weak correlation between our data points.
+- The graph for the southern hemisphere shows a weaker correlation between the data points. The r-value for this graph is .26 which means there is a weak, to no correlation.
 
 ### * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 ![graph11](output_data/LinRegress7.png)
@@ -90,8 +90,8 @@ The second requirement was to run linear regression on each relationship. This t
 ![graph12](output_data/LinRegress8.png)
 
 #### Analysis of Latitude vs. Wind Speed broken up into the northern and southern hemispheres.
-- The graph for the northern hemisphere shows a weak correlation between a city’s latitude and their wind speeds. The r-vale for this data set is .35 which confirms the weak relationship between our data points.
--The graph for the also does not show much of a correlation between the latitude and the wind speed, however, is does appear to be stronger than the northern hemisphere. The r-value of -.28 confirms this relationship.
+- The graph for the northern hemisphere shows a very weak correlation between a city’s latitude and their wind speeds. The r-value for this data set is .013 which confirms there is almost no relationship between our data points.
+-The graph for the also does not show much of a correlation between the latitude and the wind speed, however, is does appear to be stronger than the northern hemisphere. The r-value of -.26 confirms this relationship.
 
 
 ### Part II - VacationPy
