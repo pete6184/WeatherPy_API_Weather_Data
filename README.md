@@ -3,7 +3,6 @@
 - After each pair of plots, explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 - For Part I, you must include a written description of three observable trends based on the data.
 - For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
-- export all graphs and add them to README
 - Finish README file
 
 
@@ -22,9 +21,9 @@ But, if pressed, how would you **prove** it?
 
 ## Part I - WeatherPy
 
-In this example, I creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
+### In this example, I creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
-The first requirement was to create a series of scatter plots to showcase the following relationships:
+### The first requirement was to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
 ![graph](output_data/Fig1.png)
@@ -40,7 +39,7 @@ The first requirement was to create a series of scatter plots to showcase the fo
 
 After each plot I added an explaination as to what the code is doing as I analyzed the results.
 
-The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+### The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 ![graph5](output_data/LinRegress1.png)
