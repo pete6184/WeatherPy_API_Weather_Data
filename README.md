@@ -1,9 +1,3 @@
-## Work left to do
-- Humidity Kernel
-- For Part I, you must include a written description of three observable trends based on the data.
-- Finish README file
-
-
 # Python API Homework - What's the Weather Like?
 
 ## Background
@@ -37,10 +31,6 @@ The first requirement was to create a series of scatter plots to showcase the fo
 
 
 
-After each plot I added an explaination as to what the code is doing as I analyzed the results.
-
-
-
 
 The second requirement was to run linear regression on each relationship. This time, I separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -68,7 +58,6 @@ The second requirement was to run linear regression on each relationship. This t
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 ![graph12](output_data/LinRegress8.png)
 
-After each pair of plots, I added an explain as to what the linear regression is modeling.
 
 
 ### Part II - VacationPy
@@ -80,13 +69,11 @@ To complete this part of the assignment, I did the following:
 * Created a heat map that displays the humidity for every city from Part I.
 ![heatmap](Images/heatmap.png)
 
-* Chose criteria to narrow down the DataFrame to find my ideal weather condition.
+* Chose criteria to narrow down the DataFrame to find my ideal weather condition. My conditions included:
 
   * A max temperature lower than 85 degrees but higher than 70.
-
   * Humidity between 30-50%
-
   * Less than 20% chance of cloudiness.
   
- * Plotted the hotels over the previously created humidity heatmap
+ * Lastly I plotted the hotels over the previously created humidity heatmap
  ![hotelmap](Images/hotel_map.png)
