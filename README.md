@@ -1,7 +1,6 @@
 ## Work left to do
 - Humidity Kernel
 - For Part I, you must include a written description of three observable trends based on the data.
-- For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
 - Finish README file
 
 
