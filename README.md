@@ -101,7 +101,7 @@ Now I used my skills in working with weather data to plan future vacations.
 To complete this part of the assignment, I did the following:
 
 * Created a heat map that displays the humidity for every city from Part I.
-
+![heatmap](Images/heatmap.png)
 
 * Chose criteria to narrow down the DataFrame to find my ideal weather condition. My conditions included:
 
@@ -110,6 +110,6 @@ To complete this part of the assignment, I did the following:
   * Less than 20% chance of cloudiness.
   
  * Lastly I plotted the hotels in the cities that fit my criteria over the previously created humidity heatmap
-
+![hotelmap](Images/hotel_map.png)
 
 
