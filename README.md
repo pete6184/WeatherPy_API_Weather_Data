@@ -3,12 +3,9 @@
 ## Requirements & Summary
 This assignment required the use of Jupyter Notebook. It also introduced me to API calls and using this information instead of just importing .csv files to create dataframes.
 
-The first file in this assignment (WeatherPy) has us call in weather data from openweathermap.org with an API key (through a config.py file) and store specific data for 500+ randomly generated cities. We iterated through the data with a 'for' loop and appended the necessary information into lists. Next, we created dataframes with the information we extracted and ran statistical analysis on the numerical columns. Lastly, we generated several scatter plots to analyze the effects of a city's latitude on various weather outcomes.
+The first file in this assignment (WeatherPy) had me call in weather data from openweathermap.org with an API key (through a config.py file) and store specific data for 500+ randomly generated cities. I iterated through the data with a 'for' loop and appended the necessary information into lists. Next, I created dataframes with the information extracted and ran statistical analysis on the numerical columns. Lastly, I generated several scatter plots to analyze the effects of a city's latitude on various weather outcomes.
 
 The second file (VacationPy) had me find ideal vacation spots that fit the criteria I provided. I decided I wanted to vacation in a spot where the temperature is between 70-85 degrees, has humidity levels between 30-50%, and was cloudy less than 20% of the time. After finding cities that fit this criterion, I ran an API call on Google to find hotels within 5000km of the desired city and pin them to a map.
-
-This assignment was a lot of fun and I enjoyed working with live data for the first time. I can see a lot of benefits in API calls and the information it provides. I look forward to learning more about the world of APIs.
-
 
 ## Background
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what we've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
